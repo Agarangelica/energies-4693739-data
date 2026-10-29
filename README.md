@@ -3,6 +3,8 @@ Data and code for the paper "Delayed Load Frequency Regulation via a Load-Distur
 
 This repository contains the Simulink models, MATLAB scripts, and datasets required to reproduce the simulation results presented in our paper submitted to ***Energies***.
 
+The dataset for this repository is available for download in the v1.0 release.
+
 ##  Repository Structure
 
 - **`1area/`**: Single-area power system simulations.
