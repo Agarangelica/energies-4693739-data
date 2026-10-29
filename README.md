@@ -34,7 +34,7 @@ This repository contains the Simulink models, MATLAB scripts, and datasets requi
 3. Open the Simulink model `Sys.slx`.
 4. Run the simulation.
 
-## 🎛️ Simulation Scenarios & Controls
+##  Simulation Scenarios & Controls
 
 The Simulink models are configured to simulate various conditions, including:
 - **Step Changes:** SLD (Step Load Disturbance) and RSLD (Random Step Load Disturbance).
@@ -46,7 +46,7 @@ The Simulink models are configured to simulate various conditions, including:
 - The **code** (`.m`, `.slx`) is released under the **MIT License**.
 - The **data** (`metrics summary.xlsx`, `Minimal dataset.zip` / `.csv`) is released under the **CC0 1.0 Universal (Public Domain)** license.
 
-## 📧 Contact
+##  Contact
 If you have any questions or encounter issues running the files, please contact:
 - **[Tang Yicheng]**
 - Email: [1229720076@qq.com]
